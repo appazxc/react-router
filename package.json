@@ -1,6 +1,6 @@
 {
   "name": "@remix-run/react-router",
-  "private": true,
+  "private": false,
   "workspaces": {
     "packages": [
       "packages/react-router",
